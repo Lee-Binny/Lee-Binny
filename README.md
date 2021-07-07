@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-AB6454?style=flat-square&logo=Pug&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
@@ -26,7 +27,10 @@ You can click the Preview link to take a look at your changes.
   
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Potoshop-31ABFF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 </p>
