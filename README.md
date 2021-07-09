@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subin-Lee.
-- 🎮 I'm a game server developer and gamer. (Actually, I'm not good at playing games 😢)
+- 🎮 I'm a game server developer and web publisher.
 - 👀 I’m interested in taking pictures, traveling and watching movies.
 - 🌱 I’m currently learning Golang, React and Network.
 
