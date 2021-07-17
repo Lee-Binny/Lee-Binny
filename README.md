@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=flat-square&logoColor=white&Link=https://lee-binny.github.io/Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=flat-square&logoColor=white&link=https://lee-binny.github.io/Portfolio"/>
 </p>
 
 [Portfolio](https://lee-binny.github.io/Portfolio)
