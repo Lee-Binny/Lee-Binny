@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Potoshop-31ABFF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 </p>
 
-[my portfolio](https://lee-binny.github.io/Portfolio)
+[Portfolio](https://lee-binny.github.io/Portfolio)
 
