@@ -1,4 +1,4 @@
-- 👋 Hi, I am Subin-Lee and majored in Computer Engineering.
+- 👋 Hi, I am Subin-Lee and majored in Computer engineering.
 - 🎮 I'm a game server developer and web publisher.
 - 👀 I’m interested in taking pictures, traveling and watching movies.
 - 🌱 I’m currently learning Golang, React and Network.
