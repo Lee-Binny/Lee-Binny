@@ -36,4 +36,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Potoshop-31ABFF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 </p>
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qlsdl9516@gmail.com)](mailto:qlsdl9516@gmail.com) 
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lee-binny.github.io/Portfolio//)](https://lee-binny.github.io/Portfolio/)
